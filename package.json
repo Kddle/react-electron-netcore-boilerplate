@@ -9,7 +9,7 @@
     "start": "electron ./dist/main.js"
   },
   "keywords": [],
-  "author": "Kaddle",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
